@@ -1,4 +1,4 @@
 This is a Brave Rewards publisher verification file.
 
-Domain: truboo.tech
-Token: 7539a063d6089acc7454f25428bde9b59358292ebbddfb1a99046ef35fb46674
+Domain: hopeful-golick-b0f648.netlify.com
+Token: a3390c1e4695c092cd8898a08ade4b8a5404513723897a8c87994a44bf666de1
