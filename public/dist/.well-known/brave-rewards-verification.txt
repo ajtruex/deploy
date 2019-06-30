@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: hopeful-golick-b0f648.netlify.com
+Token: a3390c1e4695c092cd8898a08ade4b8a5404513723897a8c87994a44bf666de1
